@@ -42,3 +42,15 @@ This project implements a full Retrieval-Augmented Generation (RAG) pipeline usi
 
 3. Mount Google Drive and make sure .txt files are placed in:
 /content/drive/My Drive/Sample_Data/
+
+---
+
+## Sample Query
+ - What are the key challenges in AI adoption?
+
+---
+
+## Dependencies
+Install packages with:
+ ```bash
+pip install -r requirements.txt
